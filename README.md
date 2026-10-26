@@ -1,7 +1,7 @@
 <img src="banner.png" width="100%" alt="Hector Melgarejo · Desarrollador C++ y Qt · Fundador de Phoenix TS">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Desarrollador+C%2B%2B+y+Qt;Fundador+de+Phoenix+TS;Software+para+tiendas+y+minimercados;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador C++ y Qt · Fundador de Phoenix TS">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Desarrollador+C%2B%2B+y+Qt;T%C3%A9cnico+en+inform%C3%A1tica;Fundador+de+Phoenix+TS;Software+para+tiendas+y+minimercados;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador C++ y Qt · Fundador de Phoenix TS">
 </p>
 
 ### Sobre mí
@@ -10,9 +10,16 @@ Hago **software de gestión para comercios**: programas de escritorio nativos qu
 rápido, controlan el stock sin vueltas y funcionan bien incluso en computadoras viejas,
 que es lo que hay en la mayoría de los mostradores.
 
+- Desarrollador de software y **técnico en informática**: conozco tanto el programa como la computadora donde corre.
 - Creador de **[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**, el punto de venta de Phoenix TS, en uso en minimercados.
 - Me enfoco en el **rendimiento**, la **confiabilidad de los datos** y que la interfaz sea simple para quien la usa todos los días.
 - Desde Colombia.
+
+### Servicios
+
+- Desarrollo de software de gestión a medida para comercios.
+- Instalación y puesta en marcha de Phoenix POS.
+- Reparación y mantenimiento de computadoras.
 
 ### Tecnologías
 
