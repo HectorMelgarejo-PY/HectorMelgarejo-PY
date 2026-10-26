@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%" alt="Hector Melgarejo · Desarrollador C++ y Qt · Fundador de Phoenix TS">
+
 ## Hola, soy Hector Melgarejo
 
 Desarrollador **C++ y Qt** y fundador de **Phoenix TS**. Hago software de gestión
