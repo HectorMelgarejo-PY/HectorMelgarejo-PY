@@ -1,37 +1,68 @@
 <img src="banner.png" width="100%" alt="Hector Melgarejo · Desarrollador C++ y Qt · Fundador de Phoenix TS">
 
-## Hola, soy Hector Melgarejo
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Desarrollador+C%2B%2B+y+Qt;Fundador+de+Phoenix+TS;Software+para+tiendas+y+minimercados;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador C++ y Qt · Fundador de Phoenix TS">
+</p>
 
-Desarrollador **C++ y Qt** y fundador de **Phoenix TS**. Hago software de gestión
-para tiendas y minimercados: programas de escritorio rápidos, confiables y fáciles de
-usar para quien atiende el mostrador todos los días.
+### Sobre mí
 
-### Proyecto destacado
+Hago **software de gestión para comercios**: programas de escritorio nativos que cobran
+rápido, controlan el stock sin vueltas y funcionan bien incluso en computadoras viejas,
+que es lo que hay en la mayoría de los mostradores.
 
-**[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**: sistema
-de punto de venta para minimercados. Ventas con lector de código de barras,
-inventario, compras, reportes, usuarios con permisos y sincronización en la nube.
-
-<a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase">
-  <img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inicio.png" width="720" alt="Phoenix POS">
-</a>
+- Creador de **[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**, el punto de venta de Phoenix TS, en uso en minimercados.
+- Me enfoco en el **rendimiento**, la **confiabilidad de los datos** y que la interfaz sea simple para quien la usa todos los días.
+- Desde Colombia.
 
 ### Tecnologías
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" alt="Qt">
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,sqlite,postgres,supabase,python,powershell,git,github,windows&perline=11" alt="C++, Qt, CMake, SQLite, PostgreSQL, Supabase, Python, PowerShell, Git, GitHub, Windows">
 </p>
 
-### En qué trabajo
+### Proyecto destacado: Phoenix POS
 
-- Aplicaciones de escritorio nativas para Windows con C++ y Qt.
-- Bases de datos locales y sincronización con la nube.
-- Rendimiento en equipos de pocos recursos, que es la realidad de muchos comercios.
+Sistema de punto de venta para minimercados y tiendas de barrio: ventas con lector de
+código de barras, inventario, compras y proveedores, reportes con exportación a Excel,
+usuarios con permisos y sincronización en la nube.
+
+<table>
+  <tr>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inicio.png" alt="Inicio"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/ventas.png" alt="Ventas"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inventario.png" alt="Inventario"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/reportes.png" alt="Reportes"></a></td>
+  </tr>
+</table>
+
+| | |
+|---|---|
+| **Stack** | C++17 · Qt 6 · SQLite · Supabase (PostgreSQL) |
+| **Rendimiento** | Probado con 100.000 productos y 500.000 ventas |
+| **Confiabilidad** | Copias automáticas, recuperación de bases dañadas, pruebas de corte de luz y disco lleno |
+| **Calidad** | Batería de pruebas automáticas en cada compilación |
+| **Versión** | 1.0.6, con instalador `.msi` para Windows 10 y 11 |
+
+<p align="center">
+  <a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><b>Ver Phoenix POS →</b></a>
+</p>
+
+### Actividad
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&locale=es">
+    <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&locale=es" alt="Racha de contribuciones">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HectorMelgarejo-PY/HectorMelgarejo-PY/output/serpiente-oscuro.svg">
+    <img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/HectorMelgarejo-PY/output/serpiente.svg" alt="Contribuciones del último año">
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1730,100:1E3A8A&height=110&section=footer" width="100%" alt="">
