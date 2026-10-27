@@ -1,7 +1,7 @@
 <img src="img/banner.svg" width="100%" alt="Hector Melgarejo · Desarrollador de software · Fundador de Phoenix TS">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3500&pause=900&color=5D94FB&center=true&vCenter=true&width=760&lines=Desarrollador+de+software;C%2B%2B+%C2%B7+Qt+%C2%B7+Bases+de+datos;Aplicaciones+de+escritorio+y+en+la+nube;Fundador+de+Phoenix+TS;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador de software · C++ · Qt · Bases de datos">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3500&pause=900&color=5D94FB&center=true&vCenter=true&width=760&lines=Desarrollador+de+software;C%2B%2B+%C2%B7+Qt+%C2%B7+Python+%C2%B7+Tkinter;Bases+de+datos+SQL;Aplicaciones+de+escritorio+y+en+la+nube;Fundador+de+Phoenix+TS;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador de software · C++ · Qt · Python · Tkinter · Bases de datos">
 </p>
 
 <img src="img/titulo-sobre-mi.svg" alt="Sobre mí">
@@ -22,7 +22,7 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 <img src="img/titulo-tecnologias.svg" alt="Tecnologías">
 
 <p align="center">
-  <img src="img/tecnologias.svg" width="100%" alt="C++, Qt, CMake, SQLite, PostgreSQL, Supabase, Python, PowerShell, Git, GitHub, Windows">
+  <img src="img/tecnologias.svg" width="100%" alt="C++, Qt, Python, Tkinter, CMake, SQLite, PostgreSQL, Supabase, PowerShell, Git, GitHub, Windows">
 </p>
 
 <img src="img/titulo-proyecto.svg" alt="Proyecto destacado">
