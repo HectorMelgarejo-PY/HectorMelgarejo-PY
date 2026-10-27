@@ -1,10 +1,11 @@
-<img src="img/banner.svg" width="100%" alt="Hector Melgarejo · Desarrollador de software · Fundador de Phoenix TS">
+<img src="img/banner.svg" width="100%" alt="Hector Melgarejo · Desarrollador de software · C++, Qt, Python, Tkinter y SQL">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3500&pause=900&color=5D94FB&center=true&vCenter=true&width=760&lines=Desarrollador+de+software;C%2B%2B+%C2%B7+Qt+%C2%B7+Python+%C2%B7+Tkinter;Bases+de+datos+SQL;Aplicaciones+de+escritorio+y+en+la+nube;Fundador+de+Phoenix+TS;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador de software · C++ · Qt · Python · Tkinter · Bases de datos">
-</p>
+<br>
 
-<img src="img/titulo-sobre-mi.svg" alt="Sobre mí">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-sobre-mi-oscuro.svg">
+  <img src="img/titulo-sobre-mi.svg" alt="Sobre mí">
+</picture>
 
 Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con foco en que sean rápidas, confiables y fáciles de usar, incluso en computadoras de pocos recursos.
 
@@ -13,30 +14,43 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 - Me enfoco en el **rendimiento**, la **confiabilidad de los datos** y las interfaces simples para quien las usa todos los días.
 - Desde Colombia.
 
-<img src="img/titulo-servicios.svg" alt="Servicios">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-servicios-oscuro.svg">
+  <img src="img/titulo-servicios.svg" alt="Servicios">
+</picture>
 
 - Desarrollo de software a medida: aplicaciones de escritorio, bases de datos e integración con la nube.
 - Sistemas de gestión para empresas y comercios.
 - Instalación, soporte y mantenimiento de computadoras.
 
-<img src="img/titulo-tecnologias.svg" alt="Tecnologías">
+<br>
 
-<p align="center">
-  <img src="img/tecnologias.svg" width="100%" alt="C++, Qt, Python, Tkinter, CMake, SQLite, PostgreSQL, Supabase, PowerShell, Git, GitHub, Windows">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-tecnologias-oscuro.svg">
+  <img src="img/titulo-tecnologias.svg" alt="Tecnologías">
+</picture>
 
-<img src="img/titulo-proyecto.svg" alt="Proyecto destacado">
+<img src="img/tecnologias.svg" alt="C++, Qt, Python, Tkinter, CMake, SQLite, PostgreSQL, Supabase, PowerShell, Git, GitHub, Windows">
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-proyecto-oscuro.svg">
+  <img src="img/titulo-proyecto.svg" alt="Proyecto destacado">
+</picture>
 
 **[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**: sistema de punto de venta para comercios. Ventas con lector de código de barras, inventario, compras y proveedores, reportes con exportación a Excel, usuarios con permisos y sincronización en la nube.
 
 <table>
   <tr>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-inicio.png" alt="Inicio"></a></td>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-ventas.png" alt="Ventas"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inicio.png" alt="Inicio"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/ventas.png" alt="Ventas"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-inventario.png" alt="Inventario"></a></td>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-reportes.png" alt="Reportes"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inventario.png" alt="Inventario"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/reportes.png" alt="Reportes"></a></td>
   </tr>
 </table>
 
@@ -48,21 +62,16 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 | **Calidad** | Batería de pruebas automáticas en cada compilación |
 | **Versión** | 1.0.6, con instalador `.msi` para Windows 10 y 11 |
 
-<p align="center">
-  <a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><b>Ver Phoenix POS →</b></a>
-</p>
+<a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><b>Ver Phoenix POS →</b></a>
 
-<img src="img/titulo-actividad.svg" alt="Actividad">
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&border_radius=0&background=5D94FB&stroke=030303&ring=030303&fire=EFA087&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=030303&sideLabels=030303&dates=0C3C38" alt="Racha de contribuciones">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-actividad-oscuro.svg">
+  <img src="img/titulo-actividad.svg" alt="Actividad">
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HectorMelgarejo-PY/HectorMelgarejo-PY/output/serpiente-oscuro.svg">
-    <img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/HectorMelgarejo-PY/output/serpiente.svg" alt="Contribuciones del último año">
-  </picture>
-</p>
-
-<img src="img/pie.svg" width="100%" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=5D94FB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
+  <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=0070ED&currStreakNum=030303&sideNums=030303&sideLabels=30363D&dates=57606A&stroke=D0D7DE" alt="Racha de contribuciones">
+</picture>
