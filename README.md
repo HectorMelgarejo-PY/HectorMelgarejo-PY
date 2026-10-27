@@ -1,46 +1,42 @@
-<img src="banner.png" width="100%" alt="Hector Melgarejo · Desarrollador C++ y Qt · Fundador de Phoenix TS">
+<img src="img/banner.svg" width="100%" alt="Hector Melgarejo · Desarrollador de software · Fundador de Phoenix TS">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=16&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Desarrollador+C%2B%2B+y+Qt;T%C3%A9cnico+en+inform%C3%A1tica;Fundador+de+Phoenix+TS;Software+para+tiendas+y+minimercados;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador C++ y Qt · Fundador de Phoenix TS">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3500&pause=900&color=F5A524&center=true&vCenter=true&width=760&lines=Desarrollador+de+software;C%2B%2B+%C2%B7+Qt+%C2%B7+Bases+de+datos;Aplicaciones+de+escritorio+y+en+la+nube;Fundador+de+Phoenix+TS;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador de software · C++ · Qt · Bases de datos">
 </p>
 
-### Sobre mí
+<img src="img/titulo-sobre-mi.svg" alt="Sobre mí">
 
-Hago **software de gestión para comercios**: programas de escritorio nativos que cobran
-rápido, controlan el stock sin vueltas y funcionan bien incluso en computadoras viejas,
-que es lo que hay en la mayoría de los mostradores.
+Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con foco en que sean rápidas, confiables y fáciles de usar, incluso en computadoras de pocos recursos.
 
 - Desarrollador de software y **técnico en informática**: conozco tanto el programa como la computadora donde corre.
-- Creador de **[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**, el punto de venta de Phoenix TS, en uso en minimercados.
-- Me enfoco en el **rendimiento**, la **confiabilidad de los datos** y que la interfaz sea simple para quien la usa todos los días.
+- Fundador de **Phoenix TS**, donde creo y mantengo productos de software para negocios.
+- Me enfoco en el **rendimiento**, la **confiabilidad de los datos** y las interfaces simples para quien las usa todos los días.
 - Desde Colombia.
 
-### Servicios
+<img src="img/titulo-servicios.svg" alt="Servicios">
 
-- Desarrollo de software de gestión a medida para comercios.
-- Instalación y puesta en marcha de Phoenix POS.
-- Reparación y mantenimiento de computadoras.
+- Desarrollo de software a medida: aplicaciones de escritorio, bases de datos e integración con la nube.
+- Sistemas de gestión para empresas y comercios.
+- Instalación, soporte y mantenimiento de computadoras.
 
-### Tecnologías
+<img src="img/titulo-tecnologias.svg" alt="Tecnologías">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,sqlite,postgres,supabase,python,powershell,git,github,windows&perline=11" alt="C++, Qt, CMake, SQLite, PostgreSQL, Supabase, Python, PowerShell, Git, GitHub, Windows">
+  <img src="img/tecnologias.svg" width="100%" alt="C++, Qt, CMake, SQLite, PostgreSQL, Supabase, Python, PowerShell, Git, GitHub, Windows">
 </p>
 
-### Proyecto destacado: Phoenix POS
+<img src="img/titulo-proyecto.svg" alt="Proyecto destacado">
 
-Sistema de punto de venta para minimercados y tiendas de barrio: ventas con lector de
-código de barras, inventario, compras y proveedores, reportes con exportación a Excel,
-usuarios con permisos y sincronización en la nube.
+**[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**: sistema de punto de venta para comercios. Ventas con lector de código de barras, inventario, compras y proveedores, reportes con exportación a Excel, usuarios con permisos y sincronización en la nube.
 
 <table>
   <tr>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inicio.png" alt="Inicio"></a></td>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/ventas.png" alt="Ventas"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-inicio.png" alt="Inicio"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-ventas.png" alt="Ventas"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inventario.png" alt="Inventario"></a></td>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/reportes.png" alt="Reportes"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-inventario.png" alt="Inventario"></a></td>
+    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/img/captura-reportes.png" alt="Reportes"></a></td>
   </tr>
 </table>
 
@@ -56,13 +52,10 @@ usuarios con permisos y sincronización en la nube.
   <a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><b>Ver Phoenix POS →</b></a>
 </p>
 
-### Actividad
+<img src="img/titulo-actividad.svg" alt="Actividad">
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&theme=dark&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&locale=es">
-    <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&locale=es" alt="Racha de contribuciones">
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&border_radius=0&background=0E1013&stroke=2A2E35&ring=F5A524&fire=F5A524&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=F5A524&sideLabels=8B9099&dates=8B9099" alt="Racha de contribuciones">
 </p>
 
 <p align="center">
@@ -72,4 +65,4 @@ usuarios con permisos y sincronización en la nube.
   </picture>
 </p>
 
-<img src="pie.png" width="100%" alt="">
+<img src="img/pie.svg" width="100%" alt="">
