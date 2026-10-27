@@ -32,7 +32,7 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
   <img src="img/titulo-tecnologias.svg" alt="Tecnologías">
 </picture>
 
-<img src="img/tecnologias.svg" alt="C++, Qt, Python, Tkinter, CMake, SQLite, PostgreSQL, Supabase, PowerShell, Git, GitHub, Windows">
+<p><img src="img/tecnologias.svg" alt="C++, Qt, Python, Tkinter, CMake, SQLite, PostgreSQL, Supabase, PowerShell, Git, GitHub, Windows"></p>
 
 <br>
 
@@ -71,7 +71,13 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
   <img src="img/titulo-actividad.svg" alt="Actividad">
 </picture>
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=5D94FB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
   <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=0070ED&currStreakNum=030303&sideNums=030303&sideLabels=30363D&dates=57606A&stroke=D0D7DE" alt="Racha de contribuciones">
 </picture>
+</p>
+
+<br>
+
+<a href="mailto:melgarejohm99@gmail.com"><img src="img/pie.svg" width="100%" alt="Contacto: melgarejohm99@gmail.com"></a>
