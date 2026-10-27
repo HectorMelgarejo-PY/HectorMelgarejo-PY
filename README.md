@@ -1,7 +1,7 @@
 <img src="img/banner.svg" width="100%" alt="Hector Melgarejo · Desarrollador de software · Fundador de Phoenix TS">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3500&pause=900&color=F5A524&center=true&vCenter=true&width=760&lines=Desarrollador+de+software;C%2B%2B+%C2%B7+Qt+%C2%B7+Bases+de+datos;Aplicaciones+de+escritorio+y+en+la+nube;Fundador+de+Phoenix+TS;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador de software · C++ · Qt · Bases de datos">
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3500&pause=900&color=5D94FB&center=true&vCenter=true&width=760&lines=Desarrollador+de+software;C%2B%2B+%C2%B7+Qt+%C2%B7+Bases+de+datos;Aplicaciones+de+escritorio+y+en+la+nube;Fundador+de+Phoenix+TS;R%C3%A1pido+%C2%B7+Liviano+%C2%B7+Confiable" alt="Desarrollador de software · C++ · Qt · Bases de datos">
 </p>
 
 <img src="img/titulo-sobre-mi.svg" alt="Sobre mí">
@@ -55,7 +55,7 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 <img src="img/titulo-actividad.svg" alt="Actividad">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&border_radius=0&background=0E1013&stroke=2A2E35&ring=F5A524&fire=F5A524&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=F5A524&sideLabels=8B9099&dates=8B9099" alt="Racha de contribuciones">
+  <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&border_radius=0&background=5D94FB&stroke=030303&ring=030303&fire=EFA087&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=030303&sideLabels=030303&dates=0C3C38" alt="Racha de contribuciones">
 </p>
 
 <p align="center">
