@@ -71,4 +71,6 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 
 <br>
 
+<p align="center"><a href="https://www.linkedin.com/in/hector-melgarejo-it/"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://hectormelgarejo-py.github.io/"><b>Portafolio</b></a> &nbsp;·&nbsp; <a href="mailto:melgarejohm99@gmail.com"><b>Correo</b></a></p>
+
 <a href="mailto:melgarejohm99@gmail.com"><img src="img/pie.svg" width="100%" alt="Contacto: melgarejohm99@gmail.com"></a>
