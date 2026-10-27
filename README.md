@@ -43,16 +43,7 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 
 **[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**: sistema de punto de venta para pequeños negocios y empresas. Ventas con lector de código de barras, inventario, compras y proveedores, reportes con exportación a Excel, usuarios con permisos y sincronización en la nube.
 
-<table>
-  <tr>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inicio.png" alt="Inicio"></a></td>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/ventas.png" alt="Ventas"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/inventario.png" alt="Inventario"></a></td>
-    <td><a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/reportes.png" alt="Reportes"></a></td>
-  </tr>
-</table>
+<a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><img src="https://raw.githubusercontent.com/HectorMelgarejo-PY/phoenix-pos-showcase/main/capturas/demo.gif" width="100%" alt="Phoenix POS en uso: una venta de punta a punta, Inventario y Reportes"></a>
 
 | | |
 |---|---|
@@ -62,7 +53,7 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 | **Calidad** | Batería de pruebas automáticas en cada compilación |
 | **Versión** | 1.0.6, con instalador `.msi` para Windows 10 y 11 |
 
-<a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><b>Ver Phoenix POS →</b></a>
+<a href="https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase"><b>Ver Phoenix POS →</b></a> &nbsp;·&nbsp; <a href="https://hectormelgarejo-py.github.io/"><b>Mi portafolio →</b></a>
 
 <br>
 
