@@ -22,7 +22,7 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 </picture>
 
 - Desarrollo de software a medida: aplicaciones de escritorio, bases de datos e integración con la nube.
-- Sistemas de gestión para empresas y comercios.
+- Sistemas de gestión para pequeños negocios y empresas.
 - Instalación, soporte y mantenimiento de computadoras.
 
 <br>
@@ -41,7 +41,7 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
   <img src="img/titulo-proyecto.svg" alt="Proyecto destacado">
 </picture>
 
-**[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**: sistema de punto de venta para comercios. Ventas con lector de código de barras, inventario, compras y proveedores, reportes con exportación a Excel, usuarios con permisos y sincronización en la nube.
+**[Phoenix POS](https://github.com/HectorMelgarejo-PY/phoenix-pos-showcase)**: sistema de punto de venta para pequeños negocios y empresas. Ventas con lector de código de barras, inventario, compras y proveedores, reportes con exportación a Excel, usuarios con permisos y sincronización en la nube.
 
 <table>
   <tr>
