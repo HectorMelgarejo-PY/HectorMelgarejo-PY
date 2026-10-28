@@ -64,8 +64,8 @@ Desarrollo **software de escritorio y aplicaciones conectadas a la nube**, con f
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=5D94FB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
-  <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=0070ED&currStreakNum=030303&sideNums=030303&sideLabels=30363D&dates=57606A&stroke=D0D7DE" alt="Racha de contribuciones">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&v=2&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=5D94FB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
+  <img src="https://streak-stats.demolab.com/?user=HectorMelgarejo-PY&v=2&locale=es&hide_border=true&background=00000000&ring=5D94FB&fire=5D94FB&currStreakLabel=0070ED&currStreakNum=030303&sideNums=030303&sideLabels=30363D&dates=57606A&stroke=D0D7DE" alt="Racha de contribuciones">
 </picture>
 </p>
 
